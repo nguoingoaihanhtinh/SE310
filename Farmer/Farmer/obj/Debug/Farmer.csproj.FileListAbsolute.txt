@@ -1,0 +1,10 @@
+H:\Hoc\ưinform\Farmer\Farmer\bin\Debug\Farmer.exe.config
+H:\Hoc\ưinform\Farmer\Farmer\bin\Debug\Farmer.exe
+H:\Hoc\ưinform\Farmer\Farmer\bin\Debug\Farmer.pdb
+H:\Hoc\ưinform\Farmer\Farmer\obj\Debug\Farmer.csproj.AssemblyReference.cache
+H:\Hoc\ưinform\Farmer\Farmer\obj\Debug\Farmer.MainForm.resources
+H:\Hoc\ưinform\Farmer\Farmer\obj\Debug\Farmer.Properties.Resources.resources
+H:\Hoc\ưinform\Farmer\Farmer\obj\Debug\Farmer.csproj.GenerateResource.cache
+H:\Hoc\ưinform\Farmer\Farmer\obj\Debug\Farmer.csproj.CoreCompileInputs.cache
+H:\Hoc\ưinform\Farmer\Farmer\obj\Debug\Farmer.exe
+H:\Hoc\ưinform\Farmer\Farmer\obj\Debug\Farmer.pdb

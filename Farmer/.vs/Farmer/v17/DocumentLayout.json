@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Hoc\\\u01B0inform\\Farmer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E57D8B5-AA74-42E8-B8C0-ABB7E5671B6F}|Farmer\\Farmer.csproj|h:\\hoc\\\u01B0inform\\farmer\\farmer\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E57D8B5-AA74-42E8-B8C0-ABB7E5671B6F}|Farmer\\Farmer.csproj|solutionrelative:farmer\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E57D8B5-AA74-42E8-B8C0-ABB7E5671B6F}|Farmer\\Farmer.csproj|H:\\Hoc\\\u01B0inform\\Farmer\\farmer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E57D8B5-AA74-42E8-B8C0-ABB7E5671B6F}|Farmer\\Farmer.csproj|solutionrelative:farmer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E57D8B5-AA74-42E8-B8C0-ABB7E5671B6F}|Farmer\\Farmer.csproj|H:\\Hoc\\\u01B0inform\\Farmer\\farmer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E57D8B5-AA74-42E8-B8C0-ABB7E5671B6F}|Farmer\\Farmer.csproj|solutionrelative:farmer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E57D8B5-AA74-42E8-B8C0-ABB7E5671B6F}|Farmer\\Farmer.csproj|H:\\Hoc\\\u01B0inform\\Farmer\\farmer\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E57D8B5-AA74-42E8-B8C0-ABB7E5671B6F}|Farmer\\Farmer.csproj|solutionrelative:farmer\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "H:\\Hoc\\\u01B0inform\\Farmer\\Farmer\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Farmer\\MainForm.Designer.cs",
+              "ToolTip": "H:\\Hoc\\\u01B0inform\\Farmer\\Farmer\\MainForm.Designer.cs",
+              "RelativeToolTip": "Farmer\\MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:19:54.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "H:\\Hoc\\\u01B0inform\\Farmer\\Farmer\\MainForm.cs",
+              "RelativeDocumentMoniker": "Farmer\\MainForm.cs",
+              "ToolTip": "H:\\Hoc\\\u01B0inform\\Farmer\\Farmer\\MainForm.cs",
+              "RelativeToolTip": "Farmer\\MainForm.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAYwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:14:27.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "H:\\Hoc\\\u01B0inform\\Farmer\\Farmer\\Connect.cs",
+              "RelativeDocumentMoniker": "Farmer\\Connect.cs",
+              "ToolTip": "H:\\Hoc\\\u01B0inform\\Farmer\\Farmer\\Connect.cs",
+              "RelativeToolTip": "Farmer\\Connect.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAcwJMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:12:21.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "H:\\Hoc\\\u01B0inform\\Farmer\\Farmer\\MainForm.cs",
+              "RelativeDocumentMoniker": "Farmer\\MainForm.cs",
+              "ToolTip": "H:\\Hoc\\\u01B0inform\\Farmer\\Farmer\\MainForm.cs [Design]",
+              "RelativeToolTip": "Farmer\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:12:07.243Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
