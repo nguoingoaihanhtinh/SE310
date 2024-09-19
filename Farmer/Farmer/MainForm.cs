@@ -109,7 +109,7 @@ namespace Farmer
                 int quantity = Convert.ToInt32(row["TotalQuantity"]);
                 int totalMilk = Convert.ToInt32(row["TotalMilk"]);
 
-                result += $"{type}: Số lượng = {quantity}, Tổng sữa = {totalMilk} lít\n";
+                result += $"{type}: Số lượng = {quantity}, Tổng sữa = {totalMilk * quantity} lít\n";
             }
 
             lblShow.Text = result;
