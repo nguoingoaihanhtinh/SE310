@@ -1,0 +1,335 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+.header-container {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 970px;
+}
+
+.header-icon-container {
+    width: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo-icon {
+    height: 55px;
+    width: 125px;
+}
+
+.small-icon {
+    height: 20px;
+    width: 20px;
+}
+.logo-icon:hover{
+    cursor: pointer;
+}
+.small-icon:hover{
+    cursor: pointer;
+    scale:105%;
+}
+
+
+.search-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 8px;
+    height: 34px;
+    width: 466px;
+    border: 0.5px solid #d3d3d3;
+    align-items: center;
+}
+.search-input {
+    border: none;
+    outline: none;
+    flex: 1;
+}
+.search-container:hover{
+    border-color: #2fa1b3;
+}
+.search-button {
+    border: none;
+    background-color: white;
+    height: 28px;
+    width: 30px;
+}
+.search-button:hover {
+    cursor: pointer;
+    background-color: #99b9be;
+    color: #2fa1b3;
+}
+
+.body-container {
+    width: 100vw;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+.navbar {
+    height: 40px;
+    width: auto;
+    background-color: #2fa1b3;
+}
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 970px;
+    margin: 0 auto;
+    height: 100%;
+   
+}
+
+.navbar-button-container {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.navbar-button {
+    border: none;
+    border-left: 1px solid white;
+    background-color: transparent;
+    color: white;
+    height: 100%;
+    font-size: inherit;
+    font-weight: 600;
+    padding: 0 8px 0 10px;
+}
+.navbar-button:first-child{
+    background-color: #108a9d;
+}
+.navbar-button:hover {
+    cursor: pointer;
+    background-color: #108a9d;
+}
+.navbar-button-radius {
+    height: 20px;
+    border-radius: 15px;
+    color: white;
+    font-size: 12px;
+    font-weight: 400;
+    background-color: transparent;
+    border: 1px solid #ddd;
+    padding: 0 5px;
+    margin: 0 3px;
+}
+.navbar-button-radius:hover{
+    cursor: pointer;
+    scale: 105%;
+}
+.border-right {
+    border-right: 1px solid #d3d3d3;
+    background-color: #2fa1b3;
+}
+/* end navbar */
+.content {
+    display: flex;
+    flex-direction: row;
+    width: 970px;
+    margin: 0 auto;
+    margin-top: 10px;
+    flex: 1;
+}
+.content-column1 {
+    width: 625px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+.content-column2 {
+    width: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    padding-left: 20px;
+}
+
+.top1-story {
+    width: 100%;
+    height: 446px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+.top1-image {
+    width: 100%;
+    height: 340px;
+    border-radius: 4px;
+}
+.top1-image:hover{
+    cursor: pointer;
+    scale: 105%;
+    transition: 0.3s all ease;
+}
+.title-top1-story {
+    font-size: 24px;
+    font-weight: 500;
+    color: #333;
+    margin-top: 10px;
+}
+.card-text-top1-story {
+    display: flex;
+    flex-direction: column;
+}
+.title-top1-story:hover {
+    cursor: pointer;
+    color: #2fa1b3;
+    font-weight: 500;
+    flex: 2;
+}
+.source-top1-story {
+    flex: 1;
+    width: 100%;
+}
+.source-story {
+    font-size: 12px;
+    color: #333;
+    font-weight: 400;
+    margin-right: 8px;
+}
+
+.red-color {
+    color: red;
+}
+.blue-color {
+    color: blue;
+}
+.green-color {
+    color: green;
+}
+.yellow-color {
+    color: yellow;
+}
+
+/* story mini */
+.story-mini {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.story-mini-image {
+    height: 60px;
+    width: 60px;
+    border-radius: 4px;
+}
+.story-mini-image:hover{
+    cursor: pointer;
+    scale: 105%;
+    transition: 0.3s all ease;
+}
+.card-text-story-mini {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin-left: 8px;
+}
+.title-mini-story {
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+}
+.title-mini-story:hover {
+    cursor: pointer;
+    color: #2fa1b3;
+    font-weight: 500;
+}
+.source-mini-story {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    width: 100%;
+    margin-top: 8px;
+}
+/* medium story */
+.medium-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.medium-story {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    width: 198px;
+}
+
+.medium-image {
+    height: 125px;
+    width: 198px;
+    border-radius: 8px;
+}
+.medium-image:hover{
+    cursor: pointer;
+    scale: 105%;
+    transition: 0.3s all ease;
+}
+.card-text-medium-story {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+.title-medium-story {
+    font-size: 16px;
+    font-weight: 500;
+    color: #333;
+    margin-top: 8px;
+}
+.title-medium-story:hover{
+    cursor: pointer;
+    color: #2fa1b3;
+    font-weight: 500;
+}
+.medium-story-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    margin-bottom: 20px;
+}
+.medium-image-row {
+    height: 100px;
+    width: 162px;
+    border-radius: 8px;
+}
+.medium-image-row:hover{
+    cursor: pointer;
+    scale: 105%;
+    transition: 0.3s all ease;
+}
+.card-text-medium-story-row {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 8px;
+}
+.title-medium-story-row {
+    font-size: 16px;
+    font-weight: 500;
+    color: #333;
+}
+.title-medium-story-row:hover{
+    cursor: pointer;
+    color: #2fa1b3;
+    font-weight: 500;
+}
