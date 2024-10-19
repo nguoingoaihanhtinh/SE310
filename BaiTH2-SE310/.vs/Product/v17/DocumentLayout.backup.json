@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\views\\food\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\views\\food\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\views\\food\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\views\\food\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\views\\food\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\views\\food\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\data\\applicationdbcontext.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\data\\applicationdbcontext.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\views\\food\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\views\\food\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|h:\\hoc\\hoc\\nam 3\\net\\th2\\product\\product\\product.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71DAA3A4-EA54-470E-8D76-C2402E5712A7}|Product\\Product.csproj|solutionrelative:product\\product.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Product\\Models\\User.cs",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Models\\User.cs",
+              "RelativeToolTip": "Product\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:29:57.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Product\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Product\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T06:23:27.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Product\\Controllers\\AdminController.cs",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Product\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:23:05.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Views\\Food\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Product\\Views\\Food\\Detail.cshtml",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Views\\Food\\Detail.cshtml",
+              "RelativeToolTip": "Product\\Views\\Food\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T05:56:54.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Views\\Food\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Product\\Views\\Food\\Edit.cshtml",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Views\\Food\\Edit.cshtml",
+              "RelativeToolTip": "Product\\Views\\Food\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T05:40:40.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Views\\Food\\Index.cshtml",
+              "RelativeDocumentMoniker": "Product\\Views\\Food\\Index.cshtml",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Views\\Food\\Index.cshtml",
+              "RelativeToolTip": "Product\\Views\\Food\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T05:29:17.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Program.cs",
+              "RelativeDocumentMoniker": "Product\\Program.cs",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Program.cs",
+              "RelativeToolTip": "Product\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:53:09.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Product\\Views\\Home\\Index.cshtml",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Product\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T04:46:44.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Views\\Food\\Create.cshtml",
+              "RelativeDocumentMoniker": "Product\\Views\\Food\\Create.cshtml",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Views\\Food\\Create.cshtml",
+              "RelativeToolTip": "Product\\Views\\Food\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T04:46:07.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "Product\\Controllers\\FoodController.cs",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "Product\\Controllers\\FoodController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:43:37.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Data\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Product\\Data\\DatabaseHelper.cs",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Data\\DatabaseHelper.cs",
+              "RelativeToolTip": "Product\\Data\\DatabaseHelper.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:42:13.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Product\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Product\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:24:36.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Food.cs",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Product\\Models\\Food.cs",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Models\\Food.cs",
+              "RelativeToolTip": "Product\\Models\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:22:05.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\appsettings.json",
+              "RelativeDocumentMoniker": "Product\\appsettings.json",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\appsettings.json",
+              "RelativeToolTip": "Product\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T04:20:11.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.csproj",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Product.csproj",
+              "RelativeDocumentMoniker": "Product\\Product.csproj",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\Product.csproj",
+              "RelativeToolTip": "Product\\Product.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T04:09:35.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Product\\wwwroot\\css\\site.css",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Product\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-18T04:09:05.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\tailwind.config.js",
+              "RelativeDocumentMoniker": "Product\\tailwind.config.js",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\tailwind.config.js",
+              "RelativeToolTip": "Product\\tailwind.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-18T04:08:58.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "package.json",
+              "DocumentMoniker": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\package.json",
+              "RelativeDocumentMoniker": "Product\\package.json",
+              "ToolTip": "H:\\Hoc\\hoc\\Nam 3\\net\\TH2\\Product\\Product\\package.json",
+              "RelativeToolTip": "Product\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T04:08:45.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

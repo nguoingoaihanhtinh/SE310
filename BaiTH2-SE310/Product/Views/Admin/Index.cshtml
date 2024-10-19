@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+@model List<Product.Models.User>
+
+<div class="px-12 py-8">
+    <h2 class="text-3xl font-bold">Admin Dashboard</h2>
+
+    <div class="grid grid-cols-2 gap-8 mt-5">
+        <div class="bg-white p-6 rounded-lg shadow-md">
+            <h3 class="text-xl font-semibold">Total Foods</h3>
+            <p class="text-2xl">@ViewBag.FoodCount</p>
+        </div>
+
+        <div class="bg-white p-6 rounded-lg shadow-md">
+            <h3 class="text-xl font-semibold">Total Users</h3>
+            <p class="text-2xl">@ViewBag.UserCount</p>
+        </div>
+    </div>
+    <div class="mt-8">
+        <h3 class="text-2xl font-semibold">User List</h3>
+        <table class="mt-4 w-full border-collapse border border-gray-300">
+            <thead>
+                <tr>
+                    <th class="border border-gray-300 px-4 py-2">ID</th>
+                    <th class="border border-gray-300 px-4 py-2">Username</th>
+                    <th class="border border-gray-300 px-4 py-2">Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in ViewBag.Users)
+                {
+                    <tr>
+                        <td class="border border-gray-300 px-4 py-2">@user.Id</td>
+                        <td class="border border-gray-300 px-4 py-2">@user.Username</td>
+                        <td class="border border-gray-300 px-4 py-2">@user.Email</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="mt-8">
+        <h3 class="text-2xl font-semibold">Food Prices Chart</h3>
+        <canvas id="foodSalesChart" class="mt-4"></canvas>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx = document.getElementById('foodSalesChart').getContext('2d');
+    const foodSalesChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(ViewBag.FoodNames)), // Food names as labels
+            datasets: [{
+                label: 'Food Prices',
+                data: @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(ViewBag.Prices)), // Food prices as data
+                backgroundColor: ['red', 'blue', 'green', 'orange'],
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                legend: {
+                    position: 'top',
+                },
+            },
+        },
+    });
+</script>

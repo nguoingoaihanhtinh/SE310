@@ -1,0 +1,27 @@
+﻿@model Product.Models.Food
+
+<div class="px-12">
+    <h2 class="text-3xl">Sửa món ăn</h2>
+    <form method="post" action="/Food/Edit/@Model.Id">
+        <div class="mb-4">
+            <label for="foodName" class="block text-gray-700">Tên món ăn</label>
+            <input type="text" id="foodName" name="Name" class="border border-gray-300 rounded-md w-full p-2" value="@Model.Name" required>
+        </div>
+        <div class="mb-4">
+            <label for="foodImage" class="block text-gray-700">Hình ảnh (URL)</label>
+            <input type="text" id="foodImage" name="ImageUrl" class="border border-gray-300 rounded-md w-full p-2" value="@Model.ImageUrl" required>
+        </div>
+        <div class="mb-4">
+            <label for="foodDescription" class="block text-gray-700">Mô tả</label>
+            <textarea id="foodDescription" name="Description" class="border border-gray-300 rounded-md w-full p-2" required>@Model.Description</textarea>
+        </div>
+        <div class="mb-4">
+            <label for="foodPrice" class="block text-gray-700">Giá (VNĐ)</label>
+            <input type="number" id="foodPrice" name="Price" class="border border-gray-300 rounded-md w-full p-2" value="@Model.Price" required>
+        </div>
+        <div class="flex justify-end">
+            <button type="button" onclick="window.history.back()" class="mr-4 px-4 py-2 text-gray-700 bg-gray-300 rounded-md">Hủy</button>
+            <button type="submit" class="px-4 py-2 text-white bg-blue-600 rounded-md">Cập nhật</button>
+        </div>
+    </form>
+</div>
